@@ -33,21 +33,12 @@ Alternatively, you can use the script in the root of the repository, simply run 
 ## What does it do?
 
 The code.py sets up the Keybow to send shortcut commands. When you press the key, it will light that key. Repeats are not sent. 
-The default configuration that is used is very specific to my needs, and currently sends commands related to media playback, as well as the CLion IDE.
+The default configuration is very specific to my needs, and currently sends commands related to media playback, as well as the CLion IDE.
 
 ## Key layout
 
 The current key layout is below:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vsei{border-color:inherit;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;;font-size:12px;
-  text-align:center;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
