@@ -73,3 +73,7 @@ The current key layout is below:
 ## Booting
 
 By default the code in `boot.py` will prevent the `CIRCUITPY` drive from appearing in the host machine. If you want to make it visible, for example for editing the `code.py` file, you need to hold `SW0` (Bottom left button if the USB port is pointing up) and then plugin the USB cable. This will enable the device to mount as a volume.
+
+## Artwork
+
+The [artwork](./artwork/keybow.pdf) is in both sketch and pdf format. It is designed to be printed at 100%, and if you then cut it out it will fit nicely in to these [relegendable caps](https://mechbox.co.uk/collections/relegendable-keycaps/products/relegendable-keycap-for-mx-switches?variant=40694821617826)
