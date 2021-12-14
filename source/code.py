@@ -48,7 +48,7 @@ def setup():
         lambda: keyboard.send(Keycode.F7),
         lambda: consumer_control.send(ConsumerControlCode.VOLUME_INCREMENT),
         None,
-        None,
+        lambda: keyboard.send(Keycode.ALT, Keycode.COMMAND, Keycode.SHIFT, Keycode.F),
         lambda: keyboard.send(Keycode.F8),
     ]
 

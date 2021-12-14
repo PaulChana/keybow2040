@@ -53,7 +53,7 @@ The current key layout is below:
     <td class="tg-vsei">Go to definition</td>
     <td class="tg-vsei">Find usage</td>
     <td class="tg-vsei">Switch between h/cpp</td>
-    <td class="tg-vsei"> Empty</td>
+    <td class="tg-vsei">Find and replace</td>
   </tr>
   <tr>
     <td class="tg-vsei"> <span style="font-weight:normal;font-style:normal;text-decoration:none">Empty</span></td>
